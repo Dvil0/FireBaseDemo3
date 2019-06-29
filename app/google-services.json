@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "695729373781",
+    "firebase_url": "https://univalle-firebase.firebaseio.com",
+    "project_id": "univalle-firebase",
+    "storage_bucket": "univalle-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695729373781:android:664fcd3679e12f50",
+        "android_client_info": {
+          "package_name": "co.edu.univalle.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695729373781-fqkue1mgk2tau8um3358ohsghl90gpc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv1jdkaq7bLaLUZh_mReCRm98EjwL0lmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695729373781-fqkue1mgk2tau8um3358ohsghl90gpc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

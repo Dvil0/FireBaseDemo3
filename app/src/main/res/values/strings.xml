@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FireBaseDemo</string>
+    <string name="lblUsuario">Usuario</string>
+    <string name="lblClave">Clave</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="facebook_app_id">337785863582771</string>
+    <string name="fb_login_protocol_scheme">fb337785863582771</string>
+    <string name="lblcedula">Cédula</string>
+    <string name="lblNombre">Nombre</string>
+    <string name="lblTipoUsuario">TipoUsuario</string>
+    <string name="lblCrear">Crear</string>
+
+</resources>
